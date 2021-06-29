@@ -304,12 +304,3 @@ int main(int, char** argv) {
     fout.close();
     return 0;
 }
-
-/* For command line */
-// cd/d D:\C++training
-// main.exe 109062106_project3.exe baseline3.exe
-
-/* For WSL */
-// cd /mnt/d/C++training/
-// ./main ./109062106_project3 ./baseline1
-// ./main ./baseline1 ./109062106_project3
